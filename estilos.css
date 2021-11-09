@@ -1,4 +1,7 @@
 body{
-    color: rgb(149, 3, 185);
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.master{
+    background-color: rgba(137, 43, 226, 0.5);
 }
