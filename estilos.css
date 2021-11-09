@@ -1,7 +1,18 @@
 body{
-    color: rgb(133, 2, 255);
+    color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.caja{
+    padding: 40px;
+    border: 5px solid blueviolet;
+    border-radius: 10px;
+}
+.caja1 {
+    background-color: rgba(137, 43, 226, 0.281);
+    padding: 10px;
+    margin: 0px;
 }
